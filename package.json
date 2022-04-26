@@ -1,0 +1,25 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyahgutierrez/readmegenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliyahgutierrez/readmegenerator/issues"
+  },
+  "homepage": "https://github.com/aliyahgutierrez/readmegenerator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.2",
+    "node-darwin-arm64": "^17.8.0",
+    "path": "^0.12.7"
+  }
+}
